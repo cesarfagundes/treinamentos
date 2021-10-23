@@ -1,5 +1,3 @@
-
-
 ## Ethereum Virtual Marchine 
 
 Equivelente à JVM. _Write once, run anywhere_.
